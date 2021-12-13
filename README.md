@@ -62,6 +62,9 @@ When ready (e.g. after 10-12h) to bake preheat your oven to 500F. Next set up ly
 
 Boil each bagel 30 seconds per side, and return to sheet pan. Typically I boil 3-4 bagels at a time. You want to work quickly here as letting boiled bagels sit on the counter can lead to bad (flat) outcomes. Boiling time is another parameter that people tweak. 
 
+*option*-- you can add toppings to your bagels like sesame or poppy seeds at this point. just sprinkle them on the now sticky
+boiled bagels.
+
 ### Step 8
 Bake
 

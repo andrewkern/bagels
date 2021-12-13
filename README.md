@@ -1,2 +1,66 @@
 # bagels
-Andy's Bagels
+__Andy's Bagels__ (adapted from Peter Reinhart’s recipe in _The Bread Baker’s Apprentice_)
+
+____________________________
+## Requirements
+You want a STRONG mixer for this recipe. Doing it by hand would be impossible and weaker electric mixers may not be able to handle it. In addition there are 3 specialty items you need for this recipe-
+
+1. Food Grade Lye– I use this stuff https://www.amazon.com/Sodium-Hydroxide-Micro-Beads-Bottle/dp/B0838Q24Q5/ref=sr_1_5?keywords=food+grade+lye&qid=1639332427&sr=8-5
+2. Diastatic malt powder or malt syrup– lots of choices here that will affect the character of your bagels. I like using dark malt syrup for brewing (e.g., https://www.amazon.com/gp/product/B003BCZXM4/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) but malt powder is an excellent way to go too and more in line with commercial NYC bagels
+3. Vital wheat gluten– you need your flour to be super high protein for this recipe to work properly. We’re gonna spike AP to make sure we get there. E.g., https://www.bobsredmill.com/vital-wheat-gluten.html
+
+# Recipe
+
+### Step 1
+Sponge:
+
+- 3 2/3 cups AP flour
+- ⅓ cup gluten (you can do more gluten – removing same volume AP – if your flour is lower protein- i’ve done up to ⅔ cup)
+- 1 teaspoon instant yeast
+- 2.5 cups water
+
+Mix Sponge ingredients by hand in bowl of mixer. Cover with plastic wrap for two hours at Room Temp. It should have risen and be full of gas bubbles.
+
+### Step 2
+Add main ingredients. For this step you’ll need:
+
+- 0.5 teaspoons instant yeast
+- 3 ¾ cups AP flour
+- 22g salt
+- Either 10g diastatic malt powder or 14g malt syrup (about 1 tablespoon of syrup)
+
+First add the additional yeast to the sponge. Turn on mixer, slowly add 3 cups flour. May be challenging to mix but don’t worry. Once evenly incorporated add salt and malt. Mix further until malt is distributed. Finally add remaining ¾ cup flour. This can be a struggle! The dough should be very tough, but still soft to the touch and not at all ragged (there should be no dry ingredients!)
+
+### Step 3
+Transfer, knead, cut
+
+Transfer dough to a work surface. Knead a few times by hand to get it into a manageable shape and then cut off even 130g chunks. Usually I’ll get about 13-14 bagels from this recipe, maybe with the last one coming in at ~110g. 
+
+### Step 4
+Shape Chunks into balls
+
+This is really important! You want to set up very tight little dough balls that you will let rest. 
+Use a letter fold technique like you would for a sourdough boule 
+(e.g., https://www.youtube.com/watch?v=hWXA8xFYu9A). Cover your nice little bagel balls (larvae) with damp kitchen cloths and let rest 20 min. 
+
+### Step 5
+Shape larvae into bagels. 
+Using your thumb, poke a hole straight through the middle of each ball, and form them into circles using that thumb as your pivot point. Put these bagels onto baking sheets lined with parchment paper (or equivalent) that has been lightly misted with oil. Give the bagels a little room from each other, they’ll rise. 
+
+### Step 6
+Proof. 
+
+Mist the bagels a bit with oil, then loosely wrap the sheets in plastic wrap, and place in fridge overnight. Ideal proof time is 10-12h, but you can proof in the fridge much longer (days).
+
+### Step 7
+Boil 
+
+When ready (e.g. after 10-12h) to bake preheat your oven to 500F. Next set up lye solution for boiling. WEAR PROTECTIVE EYEWEAR AND GLOVES. I typically use a 0.2% lye solution (6g of lye in 3L water), but have gone much higher. Keep bagels in the fridge while oven and lye are heating. 
+
+Boil each bagel 30 seconds per side, and return to sheet pan. Typically I boil 3-4 bagels at a time. You want to work quickly here as letting boiled bagels sit on the counter can lead to bad (flat) outcomes. Boiling time is another parameter that people tweak. 
+
+### Step 8
+Bake
+
+Finally put boiled bagels into the preheated 500F degree oven. Bake 7 mins, then rotate trays in oven, turn down temp to 450F, and bake another 8 mins. Finally, let rest on trays for at least 30mins before eating. Best to leave on trays for 2 hours before slicing and freezing. Bagels store great in the freezer for weeks. 
+

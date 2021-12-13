@@ -1,7 +1,10 @@
 # bagels
 __Andy's Bagels__ (adapted from Peter Reinhart’s recipe in _The Bread Baker’s Apprentice_)
 
-____________________________
+<img width="328" alt="Screen Shot 2021-12-13 at 1 40 27 PM" src="https://user-images.githubusercontent.com/7674197/145893296-52de0302-f2d9-4315-84af-53828e3dec98.png">
+
+---------------------
+
 ## Requirements
 You want a STRONG mixer for this recipe. Doing it by hand would be impossible and weaker electric mixers may not be able to handle it. In addition there are 3 specialty items you need for this recipe-
 

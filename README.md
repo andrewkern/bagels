@@ -10,7 +10,7 @@ You want a STRONG mixer for this recipe. Doing it by hand would be impossible an
 
 1. Food Grade Lye– I use this stuff https://www.amazon.com/Sodium-Hydroxide-Micro-Beads-Bottle/dp/B0838Q24Q5/ref=sr_1_5?keywords=food+grade+lye&qid=1639332427&sr=8-5
 2. Diastatic malt powder or malt syrup– lots of choices here that will affect the character of your bagels. I like using dark malt syrup for brewing (e.g., https://www.amazon.com/gp/product/B003BCZXM4/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) but malt powder is an excellent way to go too and more in line with commercial NYC bagels
-3. Vital wheat gluten– you need your flour to be super high protein for this recipe to work properly. We’re gonna spike AP to make sure we get there. E.g., https://www.bobsredmill.com/vital-wheat-gluten.html
+3. Vital wheat gluten– you need your flour to be super high protein for this recipe to work properly. We’re gonna spike AP to make sure we get there. E.g., https://www.bobsredmill.com/vital-wheat-gluten.html Alternatively, you can use a high-protein flour like King Arthur Sir Lancelot or Gold Medal All Trumps in place of the AP flour/gluten mixture.
 
 # Recipe
 
@@ -61,6 +61,8 @@ Boil
 When ready (e.g. after 10-12h) to bake preheat your oven to 500F. Next set up lye solution for boiling. WEAR PROTECTIVE EYEWEAR AND GLOVES. I typically use a 0.2% lye solution (6g of lye in 3L water), but have gone much higher. Keep bagels in the fridge while oven and lye are heating. 
 
 Boil each bagel 30 seconds per side, and return to sheet pan. Typically I boil 3-4 bagels at a time. You want to work quickly here as letting boiled bagels sit on the counter can lead to bad (flat) outcomes. Boiling time is another parameter that people tweak. 
+
+*option*-- If you need a little extra time before baking the bagels, you can briefly place them in a bowl of ice water before putting them back on the sheet pan.
 
 *option*-- you can add toppings to your bagels like sesame or poppy seeds at this point. just sprinkle them on the now sticky boiled bagels.
 

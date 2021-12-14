@@ -17,18 +17,18 @@ You want a STRONG mixer for this recipe. Doing it by hand would be impossible an
 ### Step 1
 Sponge:
 
-- 3 2/3 cups AP flour
-- ⅓ cup gluten (you can do more gluten – removing same volume AP – if your flour is lower protein- i’ve done up to ⅔ cup)
-- 1 teaspoon instant yeast
-- 2.5 cups water
+- 470g (3 2/3 cups) AP flour
+- 50g (⅓ cup) gluten (you can do more gluten – removing same volume AP – if your flour is lower protein- i’ve done up to ⅔ cup)
+- 3g (1 teaspoon) instant yeast
+- 567g (2.5 cups) water
 
 Mix Sponge ingredients by hand in bowl of mixer. Cover with plastic wrap for two hours at Room Temp. It should have risen and be full of gas bubbles.
 
 ### Step 2
 Add main ingredients. For this step you’ll need:
 
-- 0.5 teaspoons instant yeast
-- 3 ¾ cups AP flour
+- 1.5g (0.5 teaspoons) instant yeast
+- 482g (3 ¾ cups) AP flour
 - 22g salt
 - Either 10g diastatic malt powder or 14g malt syrup (about 1 tablespoon of syrup)
 
@@ -58,7 +58,7 @@ Mist the bagels a bit with oil, then loosely wrap the sheets in plastic wrap, an
 ### Step 7
 Boil 
 
-When ready (e.g. after 10-12h) to bake preheat your oven to 500F. Next set up lye solution for boiling. WEAR PROTECTIVE EYEWEAR AND GLOVES. I typically use a 0.2% lye solution (6g of lye in 3L water), but have gone much higher. Keep bagels in the fridge while oven and lye are heating. 
+When ready (e.g. after 10-12h) to bake preheat your oven to 500°F (260°C). Next set up lye solution for boiling. WEAR PROTECTIVE EYEWEAR AND GLOVES. I typically use a 0.2% lye solution (6g of lye in 3L water), but have gone much higher. Keep bagels in the fridge while oven and lye are heating. 
 
 Boil each bagel 30 seconds per side, and return to sheet pan. Typically I boil 3-4 bagels at a time. You want to work quickly here as letting boiled bagels sit on the counter can lead to bad (flat) outcomes. Boiling time is another parameter that people tweak. 
 
@@ -71,5 +71,5 @@ If you want full-coverage toppings: let cool for a few seconds, then place the j
 ### Step 8
 Bake
 
-Finally put boiled bagels into the preheated 500F degree oven. Bake 7 mins, then rotate trays in oven, turn down temp to 450F, and bake another 8 mins. Finally, let rest on trays for at least 30mins before eating. Best to leave on trays for 2 hours before slicing and freezing. Bagels store great in the freezer for weeks. 
+- Finally put boiled bagels into the preheated 500°F (260°C) degree oven. Bake 7 mins, then rotate trays in oven, turn down temp to 450F, and bake another 8 mins. Finally, let rest on trays for at least 30mins before eating. Best to leave on trays for 2 hours before slicing and freezing. Bagels store great in the freezer for weeks. 
 

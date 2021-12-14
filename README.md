@@ -48,6 +48,7 @@ Use a letter fold technique like you would for a sourdough boule
 
 ### Step 5
 Shape larvae into bagels. 
+
 Using your thumb, poke a hole straight through the middle of each ball, and form them into circles using that thumb as your pivot point. Put these bagels onto baking sheets lined with parchment paper (or equivalent) that has been lightly misted with oil. Give the bagels a little room from each other, they’ll rise. 
 
 ### Step 6
@@ -71,5 +72,5 @@ If you want full-coverage toppings: let cool for a few seconds, then place the j
 ### Step 8
 Bake
 
-- Finally put boiled bagels into the preheated 500°F (260°C) degree oven. Bake 7 mins, then rotate trays in oven, turn down temp to 450F, and bake another 8 mins. Finally, let rest on trays for at least 30mins before eating. Best to leave on trays for 2 hours before slicing and freezing. Bagels store great in the freezer for weeks. 
+Finally put boiled bagels into the preheated 500°F (260°C) degree oven. Bake 7 mins, then rotate trays in oven, turn down temp to 450F, and bake another 8 mins. Finally, let rest on trays for at least 30mins before eating. Best to leave on trays for 2 hours before slicing and freezing. Bagels store great in the freezer for weeks. 
 

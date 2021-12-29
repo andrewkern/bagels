@@ -78,7 +78,7 @@ Finally put boiled bagels into the preheated 500°F (260°C) degree oven. Bake 7
 ## Egg Bagel Option
 
 Egg bagels are enriched with the addition of eggs and/or egg yolks. This tested
-version (@JasonJWilliamsNY) adjusts ingredients slightly to maintain the low hydration percentage needed for bagels. There are some other slight tweaks used in this version, but you could just add the egg yolks and more flower without changing flour types/bath.
+version (@JasonJWilliamsNY) adjusts ingredients slightly to maintain the low hydration percentage needed for bagels. There are some other slight tweaks used in this version, but you could just add the egg yolks and more flour without changing flour types/bath.
 
 ### Sponge
 - 550g King Arthur high-gluten flour

@@ -37,31 +37,31 @@ First add the additional yeast to the sponge. Turn on mixer, slowly add 3 cups f
 ### Step 3
 Transfer, knead, cut
 
-Transfer dough to a work surface. Knead a few times by hand to get it into a manageable shape and then cut off even 130g chunks. Usually I’ll get about 13-14 bagels from this recipe, maybe with the last one coming in at ~110g. 
+Transfer dough to a work surface. Knead a few times by hand to get it into a manageable shape and then cut off even 130g chunks. Usually I’ll get about 13-14 bagels from this recipe, maybe with the last one coming in at ~110g.
 
 ### Step 4
 Shape Chunks into balls
 
-This is really important! You want to set up very tight little dough balls that you will let rest. 
-Use a letter fold technique like you would for a sourdough boule 
-(e.g., https://www.youtube.com/watch?v=hWXA8xFYu9A). Cover your nice little bagel balls (larvae) with damp kitchen cloths and let rest 20 min. 
+This is really important! You want to set up very tight little dough balls that you will let rest.
+Use a letter fold technique like you would for a sourdough boule
+(e.g., https://www.youtube.com/watch?v=hWXA8xFYu9A). Cover your nice little bagel balls (larvae) with damp kitchen cloths and let rest 20 min.
 
 ### Step 5
-Shape larvae into bagels. 
+Shape larvae into bagels.
 
-Using your thumb, poke a hole straight through the middle of each ball, and form them into circles using that thumb as your pivot point. Put these bagels onto baking sheets lined with parchment paper (or equivalent) that has been lightly misted with oil. Give the bagels a little room from each other, they’ll rise. 
+Using your thumb, poke a hole straight through the middle of each ball, and form them into circles using that thumb as your pivot point. Put these bagels onto baking sheets lined with parchment paper (or equivalent) that has been lightly misted with oil. Give the bagels a little room from each other, they’ll rise.
 
 ### Step 6
-Proof. 
+Proof.
 
 Mist the bagels a bit with oil, then loosely wrap the sheets in plastic wrap, and place in fridge overnight. Ideal proof time is 10-12h, but you can proof in the fridge much longer (days).
 
 ### Step 7
-Boil 
+Boil
 
-When ready (e.g. after 10-12h) to bake preheat your oven to 500°F (260°C). Next set up lye solution for boiling. WEAR PROTECTIVE EYEWEAR AND GLOVES. I typically use a 0.2% lye solution (6g of lye in 3L water), but have gone much higher. Keep bagels in the fridge while oven and lye are heating. 
+When ready (e.g. after 10-12h) to bake preheat your oven to 500°F (260°C). Next set up lye solution for boiling. WEAR PROTECTIVE EYEWEAR AND GLOVES. I typically use a 0.2% lye solution (6g of lye in 3L water), but have gone much higher. Keep bagels in the fridge while oven and lye are heating.
 
-Boil each bagel 30 seconds per side, and return to sheet pan. Typically I boil 3-4 bagels at a time. You want to work quickly here as letting boiled bagels sit on the counter can lead to bad (flat) outcomes. Boiling time is another parameter that people tweak. 
+Boil each bagel 30 seconds per side, and return to sheet pan. Typically I boil 3-4 bagels at a time. You want to work quickly here as letting boiled bagels sit on the counter can lead to bad (flat) outcomes. Boiling time is another parameter that people tweak.
 
 *option*-- If you need a little extra time before baking the bagels, you can briefly place them in a bowl of ice water before putting them back on the sheet pan.
 
@@ -72,5 +72,30 @@ If you want full-coverage toppings: let cool for a few seconds, then place the j
 ### Step 8
 Bake
 
-Finally put boiled bagels into the preheated 500°F (260°C) degree oven. Bake 7 mins, then rotate trays in oven, turn down temp to 450F, and bake another 8 mins. Finally, let rest on trays for at least 30mins before eating. Best to leave on trays for 2 hours before slicing and freezing. Bagels store great in the freezer for weeks. 
+Finally put boiled bagels into the preheated 500°F (260°C) degree oven. Bake 7 mins, then rotate trays in oven, turn down temp to 450F, and bake another 8 mins. Finally, let rest on trays for at least 30mins before eating. Best to leave on trays for 2 hours before slicing and freezing. Bagels store great in the freezer for weeks.
 
+
+## Egg Bagel Option
+
+Egg bagels are enriched with the addition of eggs and/or egg yolks. This tested
+version (@JasonJWilliamsNY) adjusts ingredients slightly to maintain the low hydration percentage needed for bagels. There are some other slight tweaks used in this version, but you could just add the egg yolks and more flour without changing flour types/bath.
+
+### Sponge
+- 550g King Arthur high-gluten flour
+-  40g vital wheat gluten
+-   4g instant yeast (SAF Red)
+- 600g water
+
+**Method**: Same method as above
+
+### Main dough
+
+- 600g King Arthur high-gluten flour
+- 140g egg yolks (about 8)
+-  22g salt
+-  10g diastatic malt powder
+-   4g instant yeast (SAF Red)
+
+**Method**: Same method as above, except:
+- Dough mixed ~20 min until smooth with an Ankarsrum mixer
+- Boiled with food grade lye (10g in 4kg water) + 2 Tbs barley malt syrup

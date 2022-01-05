@@ -30,7 +30,7 @@ Add main ingredients. For this step you’ll need:
 - 1.5g (0.5 teaspoons) instant yeast
 - 482g (3 ¾ cups) AP flour
 - 22g salt
-- Either 10g diastatic malt powder or 14g malt syrup (about 1 tablespoon of syrup)
+- Either 10g diastatic malt powder or 20g malt syrup (density varies, approx 1 tablespoon of syrup)
 
 First add the additional yeast to the sponge. Turn on mixer, slowly add 3 cups flour. May be challenging to mix but don’t worry. Once evenly incorporated add salt and malt. Mix further until malt is distributed. Finally add remaining ¾ cup flour. This can be a struggle! The dough should be very tough, but still soft to the touch and not at all ragged (there should be no dry ingredients!)
 

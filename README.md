@@ -99,3 +99,6 @@ version (@JasonJWilliamsNY) adjusts ingredients slightly to maintain the low hyd
 **Method**: Same method as above, except:
 - Dough mixed ~20 min until smooth with an Ankarsrum mixer
 - Boiled with food grade lye (10g in 4kg water) + 2 Tbs barley malt syrup
+
+### acknowledgement
+I want to thank Brandon Cooper for first turning me on to this recipe and encouraging me to fine tune it
